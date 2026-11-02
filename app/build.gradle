@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    compileSdk 33
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.smartstock.advisor"
-        minSdk 21
-        targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        minSdk 23
+        targetSdk 35
+        versionCode 3
+        versionName "1.2"
     }
 
     buildTypes {
